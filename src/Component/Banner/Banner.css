@@ -1,0 +1,35 @@
+.tsparticles-canvas-el{
+    height: 80vh;
+}
+.banner{
+    background-image: url('https://i.ibb.co/T4LTPf8/black-background-mak-creates-web-design-services-1500-2500-1.jpg');
+    height:80vh;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner-info{
+    padding-top:10%; 
+}
+.banner-content{
+    color:#fff;
+}
+.banner-content h1{
+    font-size: 55px;
+}
+.banner-content p{
+    margin-bottom: 5%;
+}
+.banner-content a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color:#fff;
+    color:#000;
+    font-weight: 600;
+    
+}
+.banner-photo{
+    width:50%;
+    margin:auto;
+}
