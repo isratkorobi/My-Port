@@ -55,7 +55,7 @@ const Banner = () => {
             // color: "#ffffff",
             distance: 100,
             enable: true,
-            opacity: 0.5,
+            opacity: 0.2,
             width: 1,
           },
           collisions: {
@@ -84,7 +84,7 @@ const Banner = () => {
           },
           size: {
             random: true,
-            value: 5,
+            value: 3,
           },
         },
         detectRetina: true,
@@ -97,8 +97,7 @@ const Banner = () => {
               <div className="banner-content">
                 <h1>Hello</h1>
                 <h3>
-                  {" "}
-                  I am Israt Korobi{" "}
+                  I am Israt Korobi <span> 
                   <Typed
                     className="typed-text"
                     strings={[
@@ -109,7 +108,7 @@ const Banner = () => {
                     typeSpeed={40}
                     backSpeed={60}
                     loop
-                  />
+                  /></span>
                 </h3>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -125,8 +124,8 @@ const Banner = () => {
               <div className="banner-photo">
                 <img
                   className="img-fluid"
-                  style={{ borderRadius: "90%" }}
-                  src="https://i.ibb.co/Yh9fMhr/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction-176420-1518.jpg"
+                  // style={{ borderRadius: "90%" }}
+                  src="https://i.ibb.co/X5X7jz3/profile-pic-11.png"
                   alt=""
                 />
               </div>

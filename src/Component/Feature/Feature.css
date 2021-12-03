@@ -8,13 +8,13 @@
     transition: .4s;
 }
 .feature-card:hover{
-    background-color: #0075c1;
+    background-color: #172336;
     color:#fff;
     transform: translateY(-4px);
 
 }
 .feature-car-2{
-    background-color: #0075c1;
+    background-color: #172336;
     color:#fff;
     transition: .4s;
 }
