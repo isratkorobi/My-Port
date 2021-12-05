@@ -14,18 +14,19 @@
 }
 .banner-content{
     color:#fff;
+    font-family: 'Roboto', sans-serif;
 }
 .banner-content h1{
     font-size: 55px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .typed-text{
     color:#ffffff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .banner-content p{
     margin-bottom: 5%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .banner-content a{
     text-decoration: none;
@@ -35,9 +36,9 @@
     font-weight: 600;
     transition:.4s;
     font-family: 'Open Sans', sans-serif;
-}
-.banner-content a:hover{
-    background-color: #0075C1;
+} 
+ .banner-content a:hover{
+    background-color: #172336;
     color:#fff;
 }
 .banner-photo{

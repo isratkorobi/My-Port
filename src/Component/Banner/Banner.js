@@ -111,11 +111,9 @@ const Banner = () => {
                   /></span>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Impedit voluptatibus, placeat nesciunt non at eaque odio?
-                  Commodi unde sequi itaque!
+                  I am a Front-End Developer and also i have 1 year experience in this sector. I have done many project in react js.
                 </p>
-                <a href="resume.pdf" download>
+                <a href="israt.pdf" download>
                   Download
                 </a>
               </div>
@@ -125,7 +123,7 @@ const Banner = () => {
                 <img
                   className="img-fluid"
                   // style={{ borderRadius: "90%" }}
-                  src="https://i.ibb.co/X5X7jz3/profile-pic-11.png"
+                  src="https://i.ibb.co/ZKGQx1w/profile-pic-15.png"
                   alt=""
                 />
               </div>

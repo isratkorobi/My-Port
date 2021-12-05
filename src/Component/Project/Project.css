@@ -1,0 +1,19 @@
+#project{
+    font-family: 'Roboto', sans-serif;
+}
+.link a{
+ margin-right:10px;
+ margin-top: 20px;
+ text-decoration: none;
+ padding: 10px 14px;
+ background-color: #172336;
+ color:#fff;
+ /* transition:.2s; */
+ font-weight: 500;
+ /* border:1px solid #172336; */
+}
+.link a:hover{
+    background-color: #fff;
+    color:#172336;
+    border:1px solid #172336;
+}

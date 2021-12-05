@@ -1,0 +1,11 @@
+.contact-b{
+    width:100%;
+    margin:auto;
+    padding:10px 0;
+    background-color:#172336;
+    font-weight: 600;
+}
+.contact-b:hover{
+    background-color:#172336;
+    color:#fff;
+}

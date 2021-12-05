@@ -1,14 +1,27 @@
-
-.about-me{
+#about{
     background-color: #172336;
-    height:80vh;
+    height:50%;
+    padding-top:20px;
+    padding-bottom:20px;
+    
 }
 .about-content{
-    
+    font-family: 'Roboto', sans-serif;
     color:#fff;
 }
+.about-content h1{
+    font-family: 'Roboto', sans-serif;
+    color:#fff;
+}
+.about-me span{
+    height:3px;
+    width:85px;
+    margin:20px auto 0;
+    display: block;
+    background-color:cornsilk;
+}
 .about-info{
-    padding-top:5%;
+   padding:10% 0;
 }
 .about-in{
     color:#fff;
@@ -16,6 +29,8 @@
 .about-photo{
     margin:auto;
     width:60%;
-    
-
+}
+.skill-icon i{
+    font-size: 30px;
+    padding-right: 10px;
 }

@@ -1,22 +1,27 @@
-.feature{
+#feature{
     background-color: #e4e6e77e;
     padding: 70px;
+}
+.Feature-content{
+    font-family: 'Roboto', sans-serif;
 }
 .feature-card{
     transition: .5s;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     transition: .4s;
+    font-family: 'Roboto', sans-serif;
 }
 .feature-card:hover{
     background-color: #172336;
     color:#fff;
-    transform: translateY(-4px);
+    transform: translateY(-14px);
 
 }
 .feature-car-2{
     background-color: #172336;
     color:#fff;
     transition: .4s;
+    font-family: 'Roboto', sans-serif;
 }
 .feature-car-2 i{
     font-size: 40px;
@@ -26,9 +31,9 @@
     background-color:#fff;
     color:#000;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    transform: translateY(-4px);
+    transform: translateY(-14px);
 }
 .feature-card i{
-    font-size: 40px;
+    font-size: 50px;
     padding-bottom:10px;
 }
